@@ -1,0 +1,20 @@
+//Hold boilerplate content. Content that will be use on every page.
+
+@import 'greyBackedBox';
+@import 'imageBack';
+
+body {
+    background-color: #212121;
+    font-family: 'Roboto', sans-serif;
+}
+body p {
+    color: #ffffff;
+    opacity: 0.7;
+    font-size: 1em;
+}
+.hover {
+    position: absolute;
+    margin-top: -80vh;
+    margin-left: 15%;
+    margin-right: 15%;
+}
